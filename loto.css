@@ -1,0 +1,62 @@
+.naslov {
+	color: #e6005c;
+	
+	text-align: center;
+}
+
+.kuca {
+	width: 7%;
+	border: 1px solid #e6005c;
+	border-top: none;
+	text-align: center;
+	display: inline-block;
+
+}
+
+.kucica {
+	display: inline-block;
+	border: 1px solid #e6005c;
+	width: 20px;
+	text-align: center;
+
+	margin: 2px;
+}
+
+.section {
+	border: 1px solid #e6005c;
+	border-right: none;
+	border-left: none;
+
+}
+
+.brojKolone {
+	color: white;
+	background-color: #e6005c;
+	margin: 0px 2px;
+
+}
+
+.lotoList {
+	text-align: center;
+}
+
+
+.cross {
+	background: url("https://cdn4.iconfinder.com/data/icons/geomicons/32/672366-x-128.png");
+	background-size:100% 100%;
+	background-position: center;
+}
+
+
+.brojBox {
+	width: 25px;
+	height: 25px;
+	border: 1px solid gray;
+	display: inline-block;
+	margin: 10px;
+	margin-top: 50px;
+}
+
+.pogodjeni {
+	height: 20px;
+}
